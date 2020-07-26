@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2473" started-at="2020-07-02T17:20:26Z" finished-at="2020-07-02T17:20:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2473" started-at="2020-07-02T17:20:26Z" finished-at="2020-07-02T17:20:29Z">
+      <class name="com.qa.restassuredapi.BestBuyProductDeleteTest">
+        <test-method status="PASS" signature="ProductDelete()[pri:0, instance:com.qa.restassuredapi.BestBuyProductDeleteTest@4c70fda8]" name="ProductDelete" duration-ms="2435" started-at="2020-07-02T17:20:26Z" finished-at="2020-07-02T17:20:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductDelete -->
+      </class> <!-- com.qa.restassuredapi.BestBuyProductDeleteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
